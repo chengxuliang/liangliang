@@ -1,0 +1,83 @@
+    .S1{
+        float:left;
+        margin:1.5%;
+        width: 30%;
+        height: 30vw;                   
+        background:url(H1.jpg);
+        background-size: 100% 100%;
+        border-radius: 10px
+        }
+    .S2{   
+        float:left;
+        margin:1.5%;
+        width: 30%;
+        height: 30vw;                   
+        background:url(H2.jpg);
+        background-size: 100% 100%;
+        border-radius: 10px
+        }
+    .S3{
+        float:left;
+        margin:1.5%;
+        width: 30%;
+        height: 30vw;                   
+        background:url(H3.jpg);
+        background-size: 100% 100%;
+        border-radius: 10px
+        }
+    .S4{
+        float:left;
+        margin:1.5%;
+        width: 30%;
+        height: 30vw;                   
+        background:url(H8.jpg);
+        background-size: 100% 100%;
+        border-radius: 10px
+        }
+    .S5{
+        float:left;
+        margin:1.5%;
+        width: 30%;
+        height: 30vw;                   
+        background:url(Q7.jpg);
+        background-size: 100%;
+        border-radius: 10px
+        }
+    .S6{
+        float:left;
+        margin:1.5%;
+        width: 30%;
+        height: 30vw;                   
+        background:url(H4.jpg);
+        background-size: 100% 100%;
+        border-radius: 10px
+        }
+    .S7{
+        float:left;
+        margin:1.5%;
+        width: 30%;
+        height: 30vw;                   
+        background:url(H5.jpg);
+        background-size: 100% 100%;
+        border-radius: 10px
+        }
+    .S8{
+        float:left;
+        margin:1.5%;
+        width: 30%;
+        height: 30vw;                   
+        background:url(H6.jpg);
+        background-size: 100% 100%;
+        border-radius: 10px
+        }
+    .S9{
+        float:left;
+        margin:1.5%;
+        width: 30%;
+        height: 30vw;                   
+        background:url(H7.jpg);
+        background-size: 100% 100%;
+        border-radius: 10px
+        }       
+
+    
